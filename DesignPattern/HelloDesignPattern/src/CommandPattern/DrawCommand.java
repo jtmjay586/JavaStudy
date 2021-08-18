@@ -1,7 +1,5 @@
 package DesignPattern.HelloDesignPattern.src.CommandPattern;
 
-import command.command.Command;
-
 import java.awt.*;
 
 public class DrawCommand implements Command {
